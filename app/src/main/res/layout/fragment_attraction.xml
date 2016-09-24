@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:weightSum="1">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:stretchColumns="1">
+
+    <TableRow>
+    <TextView
+        android:layout_column="1"
+        android:layout_marginTop="10dp"
+        android:padding="4dip"
+        android:textColor="#0f016e"
+        android:text="@string/muesum"
+        android:textSize="25dp" />
+    </TableRow> <TableRow>
+        <View
+            android:layout_column="1"
+            android:layout_height="1dip"
+            android:background="#ff0241"
+            android:layout_marginRight="75dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:padding="8dip"
+            android:textColor="#0f0e0e"
+            android:text="1."
+            />
+        <TextView
+            android:layout_column="1"
+    android:layout_height="35dp"
+            android:padding="4dip"
+            android:textColor="#0f0e0e"
+            android:text="@string/nationalmuseum"
+            android:textSize="18dp"/>
+        <Button
+            android:layout_height="28dp"
+            android:layout_width="wrap_content"
+            android:text="Details"
+            android:background="#f47835"
+            android:onClick="call_ntnlmusm"/>
+    </TableRow>
+
+        <TableRow>
+            <TextView
+                android:padding="8dip"
+                android:textColor="#0f0e0e"
+                android:text="2."
+                />
+            <TextView
+                android:layout_column="1"
+                android:layout_height="35dp"
+
+                android:padding="4dip"
+                android:textColor="#0f0e0e"
+                android:text="@string/narayanhiti"
+                android:textSize="18dp"/>
+            <Button
+                android:layout_height="28dp"
+                android:layout_width="wrap_content"
+                android:text="Details"
+                android:onClick="call_nrynhiti"
+                android:background="#f47835" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:layout_marginTop="10dp"
+                android:padding="4dip"
+                android:textColor="#0f016e"
+                android:text="@string/heritagesites"
+                android:textSize="25dp"
+               />
+        </TableRow>
+        <TableRow>
+            <View
+                android:layout_column="1"
+                android:layout_height="1dip"
+                android:background="#ff0241"
+                android:layout_marginRight="72dp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:padding="8dip"
+                android:textColor="#0f0e0e"
+                android:text="1."
+                />
+            <TextView
+                android:layout_column="1"
+                android:layout_height="35dp"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"
+                android:text="@string/durbarsquares"
+                android:textSize="18dp"/>
+            <Button
+                android:layout_height="28dp"
+                android:layout_width="wrap_content"
+                android:text="Details"
+                android:onClick="call_drbr"
+                android:background="#f47835" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:padding="8dip"
+                android:textColor="#0f0e0e"
+                android:text="2."
+                />
+            <TextView
+                android:layout_column="1"
+                android:layout_height="35dp"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"
+                android:text="@string/pashupatinath"
+                android:textSize="18dp"/>
+            <Button
+                android:layout_height="28dp"
+                android:layout_width="wrap_content"
+                android:text="Details"
+                android:onClick="call_pashupatinath"
+                android:background="#f47835" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:padding="8dip"
+                android:textColor="#0f0e0e"
+                android:text="3."
+                />
+            <TextView
+                android:layout_column="1"
+                android:layout_height="35dp"
+
+                android:padding="4dip"
+                android:textColor="#0f0e0e"
+                android:text="@string/swyambhu"
+                android:textSize="18dp"/>
+            <Button
+                android:layout_height="28dp"
+                android:layout_width="wrap_content"
+                android:text="Details"
+                android:onClick="call_swyambhu"
+                android:background="#f47835" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:layout_marginTop="10dp"
+                android:padding="4dip"
+                android:textColor="#0f016e"
+                android:text="@string/placestovisit"
+                android:textSize="25dp" />
+        </TableRow>
+        <TableRow>
+            <View
+                android:layout_column="1"
+                android:layout_height="1dip"
+                android:background="#ff0241"
+                android:layout_marginRight="72dp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:padding="8dip"
+                android:textColor="#0f0e0e"
+                android:text="1."
+                />
+            <TextView
+                android:layout_column="1"
+                android:layout_height="35dp"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"
+                android:text="@string/gardendreams"
+                android:textSize="18dp"/>
+            <Button
+                android:layout_height="28dp"
+                android:layout_width="wrap_content"
+                android:text="Details"
+                android:onClick="call_grdn"
+                android:background="#f47835" />
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:padding="8dip"
+                android:textColor="#0f0e0e"
+                android:text="2."
+                />
+            <TextView
+                android:layout_column="1"
+                android:layout_height="35dp"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"
+                android:text="@string/otherplaces"
+                android:textSize="18dp"/>
+            <Button
+                android:layout_height="28dp"
+                android:layout_width="wrap_content"
+                android:text="Details"
+                android:onClick="call_otherp"
+                android:background="#f47835" />
+        </TableRow>
+    </TableLayout>
+    </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>
+
+

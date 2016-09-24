@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="10dp"
+        android:shrinkColumns="1">
+<TableRow>
+    <TextView
+        android:layout_column="1"
+        android:text="@string/star"
+        android:textColor="#0f016e"
+        android:textSize="20dp"
+        android:layout_margin="6dp"
+        /></TableRow>
+    <TableRow>
+        <View
+            android:layout_column="1"
+            android:layout_height="1dip"
+            android:background="#ff0241"
+            android:layout_marginRight="29dp"/>
+    </TableRow>
+
+<TableRow>
+
+    <TextView
+        android:layout_column="1"
+        android:text="@string/htl1"
+        android:padding="4dip"
+        android:textColor="#0f0e0e"/>
+
+</TableRow>
+
+
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:text="@string/htl2"
+                android:padding="4dip"
+            android:textColor="#0f0e0e"/>
+
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:text="@string/htl3"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"/></TableRow>
+            <TableRow>
+                <TextView
+                    android:layout_column="1"
+                    android:text="@string/htl4"
+                    android:padding="4dip"
+                    android:textColor="#0f0e0e"/>
+
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:layout_column="1"
+                    android:text="@string/htl5"
+                    android:padding="4dip"
+                    android:textColor="#0f0e0e"/>
+
+            </TableRow>
+            <TableRow>
+                <TextView
+                    android:layout_column="1"
+                    android:text="@string/htl6"
+                    android:padding="4dip"
+                    android:textColor="#0f0e0e"/>
+
+            </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:text="@string/fourstar"
+                android:textColor="#0f016e"
+                android:textSize="20dp"
+                android:layout_margin="6dp"
+                /></TableRow>
+        <TableRow>
+            <View
+                android:layout_column="1"
+                android:layout_height="1dip"
+                android:background="#ff0241"
+                android:layout_marginRight="30dp"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_column="1"
+                android:text="@string/htl7"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"/>
+
+        </TableRow>
+
+
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:text="@string/htlsh"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"/>
+
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:text="@string/htl8"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"/></TableRow>
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:text="@string/htl9"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"/>
+
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:text="@string/threestar"
+                android:textColor="#0f016e"
+                android:textSize="20dp"
+                android:layout_margin="6dp"
+                /></TableRow>
+        <TableRow>
+            <View
+                android:layout_column="1"
+                android:layout_height="1dip"
+                android:background="#ff0241"
+                android:layout_marginRight="30dp"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_column="1"
+                android:text="@string/ts1"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"/>
+
+        </TableRow>
+
+
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:text="@string/ts2"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"/>
+
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:text="@string/ts3"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"/></TableRow>
+        <TableRow>
+            <TextView
+                android:layout_column="1"
+                android:text="@string/guesthouse"
+                android:textColor="#0f016e"
+                android:textSize="20dp"
+                android:layout_margin="6dp"
+                /></TableRow>
+        <TableRow>
+            <View
+                android:layout_column="1"
+                android:layout_height="1dip"
+                android:background="#ff0241"
+                android:layout_marginRight="30dp"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_column="1"
+                android:text="@string/gh1"
+                android:padding="4dip"
+                android:textColor="#0f0e0e"/>
+
+        </TableRow>
+
+
+
+
+
+
+
+
+    </TableLayout>
+    </ScrollView>
+
+</LinearLayout>
+
+
+    <!--android:isIndicator="true"-->
+
+
+
+
+
+
+

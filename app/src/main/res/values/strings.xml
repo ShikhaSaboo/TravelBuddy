@@ -1,0 +1,515 @@
+<resources>
+    <string name="app_name">Travel\nBuddy</string>
+    <string name="title_section1">Travel Tip</string>
+    <string name="title_section2">Hotel</string>
+    <string name="title_section3">Tourist Attraction</string>
+    <string name="title_section4">Transportation</string>
+    <string name="title_section5">Event News</string>
+    <string name="title_section6">Emergency Contacts</string>
+    <string name="title_section7">General Information</string>
+    <string name="title_section8">Map</string>
+
+    <string name="title_trvltp1">Entry Requirement</string>
+    <string name="title_trvltp2">Air/Road conncetions to Nepal</string>
+    <string name="title_trvltp3">Accomodation </string>
+    <string name="title_trvltp4">Communication</string>
+    <string name="title_trvltp5">Permits and fees</string>
+    <string name="title_trvltp6">Health guide</string>
+    <string name="title_trvltp7">Cultural etiquette"</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example"></string>
+
+    <string name="action_settings">Settings</string>
+    <string name="EntryRequirement">
+        Visa can be obtained on arrival at the Tribhuvan International Airport, Kathmandu, at border
+        entry pointsin Kakadvitta, Birgunj, Bhairahawa, Nepalgunj, Gaddachowkion Nepal-India border and Kodari on Nepal-China border.
+        Visa can also be obtained at the nearest Nepal Embassy or Diplomatic Mission. Visa can also be obtained (renewal purposes) at
+        Department of Immigration, Kalikasthan, Kathmandu.A valid passport and one passport -size photo with a light background is
+        required. Immigration Department has not specified the size of the passport-size photo.Visa can be obtained only through
+        payment of cash in the following currency:Euro, Swiss Franc, Pound Sterling, US Dollar, Australian Dollar, Canadian Dollar,
+        Hong Kong Dollar, Singapore Dollar and Japanese Yen.Credit card, Indian currency and Nepali currency are not accepted as
+        payment of visa fee.
+    </string>
+    <string name ="Permits">
+       <h><b>Heritage Sites/ Museums / Zoo</b></h><p>
+          Entrance fees must be paid before touring heritage sites around Kathmandu Valley like Bhaktapur Durbar Square, Patan Durbar Square,
+        Kathmandu Durbar Square, Bauddhanath, Swayambhunath and Changu Narayan Temple.Entrance fees must be paid before touring
+        Lumbini Gardens, the sanctuary of the Mayadevi Temple, the birthplace of Lord Buddha, in Lumbini, Rupandehi.Entrance fees
+        must be paid before touring the Central Zoo in Jawalakhel, Lalitpur, and museums in Kathmandu Valley. Entrance fees must also
+        be paid before touring local museums in different parts of Nepal.</p>
+    </string>
+    <string name="Accomodation"><p>Nepal has every category of accommodation facilities that range from international standard star hotels to budget hotels and lodges. To ensure quality service, it is advisable to use the facilities and services of Government registered hotels, lodges and homestays. Most hotels offer a choice: bed and breakfast; bed, breakfast and one other meal; or room and full board. During spring and fall,
+    hotels work at near full capacity and are booked well in advance.Therefore, it would be a good idea to check well in advance and book hotels as per need if traveling to Nepal in the
+    peak season. Moderate accommodation facilities are also available in some parts of Kathmandu like Thamel. In such cases,
+    room rates may not include toilets and showers, unless otherwise indicated. Toilets and showers in such cases are generally
+    communal and heating may require additional charges. Such small hostelries are preferred by budget tourists and FITs.
+    Accommodation facilities are available in the mountain tourist areas. While trekking to some areas tenting may be the only
+    alternative if resident villages are scanty and long way off trekking routes. However, most trekking routes have lodges or
+    tea houses to accommodate tourists. Still to be on the safer side, we recommend that tourists look up on such information
+    before embarking on their journey.</p></string>
+
+     <string name="Connection"><b>Air Connection</b>\n
+    Nepal Airlines is the national flag carrier of Nepal with flights to/ from Delhi, Kuala Lumpur, Dubai, Bangkok, Doha and Hong Kong.
+         Other International airlines operating from and to Kathmandu are Air Arabia (Sharjah), Air Asia (Kuala Lumpur), Air China
+         (Lhasa, Chengdu), Biman Bangladesh (Dhaka), China Eastern Airlines (Kunming), China Southern Airlines (Guangzhou), Dragon
+         Air (Hong Kong), Druk Air (Delhi, Paro), Etihad Airways (Abu Dhabi), Flydubai (Dubai), GMG Airlines (Dhaka), Indian Airlines
+         (Delhi, Kolkata, Varanasi), Indigo Airlines (Delhi), Jet Airways (Delhi, Mumbai), Jet Lite (Delhi), Korean Air (Seoul),
+         Malaysian Airlines (Kuala Lumpur), Pakistan International Airlines (Karachi, Islamabad), Qatar Airways (Doha), RAK Air
+         (Ras al- Khaimah), Silk Air (Singapore), Spicejet (Delhi), Thai Airways (Bangkok)and United Airways (Dhaka).\n \n
+         <b>Traveling by Road</b>\n All visitors entering Nepal by land must use these designated entry points and may not enter
+         from any other point:\n(1) Kakkarvitta\n(2) Birgunj\n(3) Belhiya, Bhairahawa\n(4) Nepalgunj \n(5) Dhangadi and \n(6)
+         Mahendranagar in the Nepal-India border and \n(7) Kodari in the Nepal-China border. </string>
+        <string name="title_activity_permits_activity">Permits and fees</string>
+    <string name="Cultural_Etiquette">Some tips on the common etiquettes practiced by Nepali people should be useful to visitors.\n
+        1.	The form of greeting in Nepal is “Namaste” performing by joining both palms together. It literally means “the divine in me
+        salutes the divine in you”.\n 2.	As a mark of respect Nepalis usually take their shoes off before entering someone’s house or
+        place of worship.\n 3.	Food or material that has been touched by another person’s mouth is considered impure or “jutho” and,
+        therefore, is not accepted unless among close friends or family.\n 4.	Touching something with feet or using the left hand
+        to give or take may not be considered auspicious.\n 5.	Women wearing skimpy outfits are frowned upon especially in the rural
+        parts of the country.\n 6.	As a part of the tradition some Hindu temples do not allow non Hindus to enter.\n 7.	Leather
+        articles are prohibited inside some temple areas.\n 8.	Walking around temples or stupas is traditionally done clockwise.\n
+        9.	To avoid conflict photography is carried out after receiving permission from the object or person.\n 10.	Public
+        displays of affection are considered scandalous.\n</string>
+    <string name="Communication"><b>Telephone Services:</b>\n
+Landline and mobile phone services are available in Nepal. Network covers Kathmandu, major cities and towns and most of Nepal, except some rural Himalayan places. Nepal Telecommunications Corporation at Tripureshwor, Kathmandu, is the national service provider. There are also private service providers. Hotels and private communication centers also provide long distance telephone and fax facilities.\n
+    For calling from outside, country code for Nepal is 977 and the area code for Kathmandu is 1. For other city codes are:
+    To call Nepal from other countries:\n
+    00 + country code (977) + city code + telephone number\n</string>
+    <string name="Health_guide"><p>No specific vaccinations are needed to enter Nepal, but visitors should ensure they are vaccinated
+        against hepatitis A and B, typhoid fever, rabies and Japanese encephalitis. Meningitis A/C shows up frequently during the
+        winter months. If you are travelling through the Terai region, malaria is a concern during the monsoon season. Be careful to
+        avoid getting bitten by mosquitoes at dawn and dusk. Wear long pants, socks and shoes and sleep under a mosquito net whenever
+        possible.The most common illness suffered by travellers to Nepal is a stomach ache due to consuming contaminated food or water. Never drink water or ice if you aren’t sure it has been purified. Bottled water is available everywhere. Many visitors choose to avoid eating dairy products or unpeeled fruit. Meat is fine as long as it’s been thoroughly cooked. Washing your hands often is another good precaution while travelling around Nepal.</p></string>
+        <string name="title_activity_accomodation">Accomodation</string>
+
+        <string name="title_activity_connection">Air Connection</string>
+        <string name="title_activity_cultural_ettiquete">Cultural Ettiquete</string>
+        <string name="title_activity_communication">Communication</string>
+        <string name="title_activity_health_guide">HealthGuide</string>
+
+    <string name="fourstar"><b>Four Star Hotels\t(****)</b></string>
+    <string name="star"><b>Five Star Hotels\t(*****)</b></string>
+    <string name="htl1">1.\t Hyatt Regency , Boudha KTM</string>
+    <string name="htl2">2.\t Soaltee Crown Plaza, Tahachal KTM</string>
+    <string name="htl3">3.\t Hotel Annapurna,Durbar Marg KTM</string>
+    <string name="htl4">4.\t Radisson Hotel, Lazimpat KTM</string>
+    <string name="htlsh">2.\t Shangri-La Hotel,Lazimpat KTM </string>
+    <string name="htl5">5.\t Yak and Yeti Hotel,Durbar Marg KTM</string>
+    <string name="htl6">6.\t The Malla Hotel,Thamel KTM</string>
+    <string name="htl7">1.\t Hotel Shankar,Lazimpat Ktm</string>
+    <string name="htl8">3.\t Hotel Vaishali,Thamel Ktm</string>
+    <string name="htl9">4.\t Hotel Himalaya,Kupandole Lalitpur</string>
+    <string name="threestar"><b>Three Star Hotels\t(***)</b></string>
+    <string name="ts1">1.\tShambling Hotel,Lazimpat KTM</string>
+    <string name="ts2">2.\tSamsara Resort,Thamel Ktm</string>
+    <string name="ts3">3.\tKathmandu Guest House,Ktm</string>
+    <string name="guesthouse"><b>Guest House \t(*)</b></string>
+    <string name="gh1">1.\t Red Planet Guest House</string>
+
+    <string name="muesum"><b>Museum</b></string>
+    <string name="narayanhiti">Narayanhiti Palace Museum</string>
+    <string name="nationalmuseum">National Museum</string>
+    <string name="heritagesites"><b>Heritage Sites</b></string>
+    <string name="durbarsquares">Durbar Squares</string>
+    <string name="pashupatinath">Pashupatinath Temple </string>
+    <string name="swyambhu">Swyambhunath Stupa</string>
+    <string name="gardendreams">Garden of Dreams</string>
+    <string name="placestovisit"><b>Places to Visit</b></string>
+    <string name="otherplaces">Other Places </string>
+        <string name="title_activity_national_museum">National Museum</string>
+    <string name="National">
+
+        The National Museum is located in the western part of Kathmandu near the Swoyambhunath stupa in the historical building which
+        was constructed in early 19th century by General Bhimsen Thapa. It is the most important museum in the country, housing an
+        extensive collection of weapons, art and antiquities of historic and cultural importance. The museum was established in
+        1928 as a collection house of war trophies and weapons, and the initial name of this museum was Chhauni Silkhana, which literally
+        means "the stone house of arms and ammunition". Given its focus, the museum contains an extensive quantity of weapons, including
+        locally made firearms used in various wars and leather canons from the 18th-19th century and medieval and modern works in wood,
+        bronze, stone, and painting>
+    </string>
+        <string name="title_activity_narayanhiti">Narayanhiti Palace Museum</string>
+    <string name="narayan">
+        Full of chintzy meeting rooms and faded 1970s glamour, the palace interior is more gaudy than opulent. The highlights are the
+        impressive throne and banquet halls and the modest royal bedrooms (check out the great armchair with built-in speakers).
+        Stuffed gharial, tigers and rhino heads line the halls next to towering portraits of earlier Shahs and photos of the royal
+        family taken with other doomed leaders – Yugoslavia’s Tito, Romania’s Ceaușescu and Pakistan’s Zia ul-Haq.
+        The locations where Prince Dipendra massacred his family in 2001 are rather morbidly marked, though the actual building was
+        rather suspiciously levelled after the crime. Bullet holes are still visible on some of the walls. Just as interesting as the
+        building are the locals’ reactions to it, as they peek at a regal lifestyle that for centuries they could only have dreamed
+        about. Cameras and bags are not allowed inside the complex.\n<u> Telephone</u>
++977 1 1 4227844\n
+ Prices
+admission foreigner/SAARC Rs 500/250\n
+ Opening hours
+11am-4pm Thu-Mon, closes 3pm Nov-Jan\n
+
+
+
+    </string>
+        <string name="title_activity_durbar__square">Durbar Squares</string>
+    <string name="durbar_description">
+        In particular, there are three Durbar Squares in the Kathmandu Valley, belonging to the three Newar kingdoms situated there
+        before unification, are most famous: Kathmandu Durbar Square, Patan Durbar Square, and Bhaktapur Durbar Square. All three are
+        UNESCO World Heritage Sites.\n\n<b> Kathmandu Durbar Square</b>\n\nKathmandu Durbar square, also known as Hanuman Dhoka Durbar,
+        used to be the residence of the Nepali royal family and administrators.This palace is named after Hanuman, the monkey god, as a
+        stone statue of Hanuman is placed right next to the main entrance protecting the whole palace.\n<u>Some important monuments
+        seen in this area are:</u>\n
+•	The Taleju temple is the tallest of all structures built by King Mahendra Malla in 1549 A.D.\n
+•	The Jagannath temple, built in the 16th century, is known for the fascinating erotic figures carved in the wooden struts.\n
+•	The Kala Bhairav, one of the largest 17th century stone statue in Kathmandu, represents the terrifying aspect of Shiva.\nSeveral buildings in the Square collapsed due to a major earthquake on 25 April 2015
+
+        \n\n<b>Patan Durbar Square </b>\n\n
+        Patan Durbar Square is situated at the centre of Lalitpur city.   One of its attraction is The Ancient Royal Palace where the
+        Malla Kings of Lalitpur resided.The Durbar Square is a marvel of Newa architecture. The Square floor is tiled with red bricks.
+        entrance of the temples faces east, towards the palace. There is also a bell situated in the alignment beside the main temples. The Square also holds old Newari residential houses. There are various other temples and structures in and around Patan Durbar Square build by the Newa People.
+        The square was heavily damaged on 25 April 2015 by a major earthquake.\n\n<b>Bhaktapur Durbar Square</b>\n\nThe Bhaktapur
+        Durbar Square is located in the current town of Bhaktapur, also known as Bhadgoan, which lies 13 km east of Kathmandu.
+        While the complex consists of at least four distinct squares (Durbar Square, Taumadhi Square, Dattatreya Square and Pottery
+        Square), the whole area is informally known as the Bhakapur Durbar Square and is a highly visited site in the Kathmandu
+        Valley
+    </string>
+        <string name="title_activity_pashupatinath">Pashupatinath Temple</string>
+   <string name="pashupatinath_description">
+       Pashupatinath was built in 1969 on the orders of King Bhupendra Malla.It is Nepals most important Hindu temple constructed in
+       the pagoda style architecture.Pashupatinath stands on the banks of the Bagmati river,has a distinctive gilded rooftop,
+       intricately carved rafters(featuring members of Shivas family) and four silver_plated main doors surrounded by statues of
+       deities.\n Pashupatinath reaches a maximum height of 24 metres and is presided over by preists called Bhatts and a chief
+       priest called Mool Bhatt or Raval,Non hindus are not allowed inside the temple,though a glimpse of Shivas bull Nandi can be
+       caught from outside the western entrance.\n Whilist the ghats in front of the temple were reserved for the cremation of royality,
+       four other ghats  to the nearby bridges are in regular use.There is often cremation in progress with a shrouded body lifted on top
+       of a log fire with surprisingly little ceremony.\n\n £$€¥ Adults and children over 10 years old: Rs500. Younger children go free.
+   </string>
+        <string name="title_activity_swyambhu">Swayambhunath Stupa</string>
+    <string name="swayambhu_description">
+        The Swayambhunath Stupa (meaning the ‘self-created’ stupa, aka the Monkey Temple) is found on a hilltop to the west of Kathmandu.
+        Second in importance only to the Boudhanath Stupa, the Swayambhunath complex,founded by King Manadeva during the fifth century,
+        contains a stupa, temples, shrines, Tibetan monastery, museum and library.The Stupa, re-gilded with 20 kilograms of gold in
+        2010, has a large white dome at its base, above which are painted four sets of Buddha’s eyes and eyebrow; further up the Stupa
+        are found four pentagonal Toran (gateways) and thirteen tiers leading to the Stupa’s golden spire.\nWe recommend accessing
+        Swayambhunath by the 365 worn steps that lead up the eastern side of the hill; the start of this climb is marked by a 12-foot
+        Tibetan prayer wheel and three painted Buddha statues.  The Stupa offers great views over Kathmandu, especially in the early
+        evening.  To catch the Tibetan pilgrims, you will need to arrive before 9am\n \n<b>Where?</b> Found on a hillside on the west of Kathmandu,
+        about 20 minutes by taxi from the Thamel area\n\n<b><u>When?</u></b> Sunrise to sunset each day\n\n<b> £$€¥ </b>Rs250 (the main ticket office is half way up the eastern staircase).
+
+    </string>
+        <string name="title_activity_gardendreams">Gardendreams</string>
+    <string name="garden_dreams">
+        The Garden of Dreams is a beautiful enclave found a stones throw from the centre of Thamel.The Garden—formal in style—
+        occupies about half a hectare. Its lush lawns, sunken flower gardens, large central pond, fountains, gazebos and three
+        neo-classical pavilions are kept in pristine condition.\n Built by Field Marshall Kaiser Shumsher (1892-1964), son of Nepals
+        prime minister Chandra Shumsher, the Garden was inspired after a trip to Edwardian England using funds that Kaiser had won from his father in a game of cowrie shells.\nThe Garden was restored by the Austrian team responsible for the renovation of the Patan Museum (see above). They are best savoured in good weather, over a picnic or whilst reading a book or surfing the net (wifi available).\n\n<b><u>when?</u></b> 9am-10pm, 7 days a week.\n
+<b><u>where? </u></b>  Garden of Dreams, Kaiser Mahal, Tridevi Marg, Kathmandu, Nepal. T: 977-1-4425340 E: info@gardenofdreams.org.np\n
+<b><u>£$€¥ </u></b> Adults: Rs160; Children: Rs40.
+    </string>
+    <string name="emergency">•	Dial 100 to get immediate assistance from the Police and for tourist police dial 4700750 (Thamel Tourists Police)\n
+•	Dial 4228094 while in Kathmandu or other Ambulance service numbers listed below. At the same time, seek help from nearby people and traffic police for alternative assistance as Emergency Response is much longer than expected.\n
+•	103 for Fire Fighters \n
+        •Country code is :977\n
+        •Kathmandu valley code : 01\n\n
+    </string>
+    <string name="embassy">Embassy</string>
+    <string name="embassy1">Autralian Embassy</string>
+    <string name="embassy2">Indian Embassy</string>
+    <string name="embassy3">Japan Embassy</string>
+    <string name="embassy4">Thai Embassy</string>
+    <string name="embassy5">UK Embassy</string>
+    <string name="embassy6">US Embassy</string>
+    <string name="embassy7">Norwegian Embassy</string>
+    <string name="location">Location</string>
+    <string name="location1">Bansbari</string>
+    <string name="location2">Lainchaur</string>
+    <string name="location3">PaniPokhari</string>
+    <string name="location4">Bansbari</string>
+    <string name="location5">Lainchaur</string>
+    <string name="location6">PaniPokhari</string>
+    <string name="location7">Bakhundole</string>
+    <string name="phone">Phone No.</string>
+    <string name="phone1">01-4371678</string>
+    <string name="phone2">01-4410900</string>
+    <string name="phone3">01-4426680</string>
+    <string name="phone4">01-4374110</string>
+    <string name="phone5">01-4411590</string>
+    <string name="phone6">01-4411179</string>
+    <string name="phone7">01-5545307</string>
+        <string name="title_activity_event_news">EventNews</string>
+    <string name="festival"><b>Festivals</b></string>
+    <string name="event">Event</string>
+<string name="month">Month</string>
+    <string name="eventfestival1">Loshar</string>
+    <string name="month1">January/February</string>
+    <string name="loctnev1">Boudhanath\nNationwide</string>
+    <string name="eventfestival2">Shivratri</string>
+    <string name="month2">February</string>
+    <string name="loctnev2">Pashupatinath</string>
+    <string name="eventfestival3">Holi</string>
+    <string name="month3">March</string>
+    <string name="loctnev3">Nationwide</string>
+    <string name="otherevents"><b>Other Events</b></string>
+    <string name="foodbeverage"><u>Food Beverage and Hospitality</u></string>
+    <string name="fooddate">• Date:24-27Sep2015 \n• Location:Bhrikutimandap- Exhibition hall</string>
+    <string name="date">Date</string>
+    <string name="icctns"><u>International Conference on Computing\nTechnology and Networking System</u></string>
+    <string name="icdate">• Date:10-11 Oct2015\n• Hotel Radission Kathmandu Nepal</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="atmlounge">ATM Lounge</string>
+    <string name="medicalstores">Medical Stores</string>
+    <string name="shoppingmall">Shopping Mall</string>
+    <string name="laundry">Laundry </string>
+    <string name="restaurants">Restaurants</string>
+    <string name="hsptl1">B and B Hospital</string>
+    <string name="hsptl2">Patan Hospital</string>
+    <string name="hsptl3">Nepal Medical College</string>
+    <string name="hsptl">Hospital</string>
+    <string name="hlocation">Location</string>
+    <string name="hlocation1">Gwako, Lalitpur</string>
+    <string name="hlocation2">Lagankhel Lalitpur</string>
+    <string name="hlocation3">Jorpati, Ktm</string>
+    <string name="hphone">Phone No.</string>
+    <string name="hphone1">01-5531933</string>
+    <string name="hphone2">01-5522295</string>
+    <string name="hphone3">01-4486008</string>
+    <string name="medical">Name</string>
+    <string name="medical1">KC Medical Hall Pvr. Ltd</string>
+    <string name="medical2">Hit Medical Hall</string>
+    <string name="mlocation">Location</string>
+    <string name="mlocation1">Anamnagar, Ktm</string>
+    <string name="mlocation2">Madhyapur Thimi, Ktm</string>
+    <string name="mphone">Phone No.</string>
+    <string name="mphone1">01-4442475</string>
+    <string name="mphone2">01-6632125\n</string>
+    <string name="shop">Name</string>
+    <string name="shop1">Kathmandu Mall</string>
+    <string name="shop2">United World Trade Center</string>
+    <string name="slocation">Location</string>
+    <string name="slocation1">Tudikhel, Ktm</string>
+    <string name="slocation2">Tripureshwor, Ktm\n</string>
+
+
+
+
+
+
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

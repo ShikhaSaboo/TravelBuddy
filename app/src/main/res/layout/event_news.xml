@@ -1,0 +1,200 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.minorproject.ckaa.travelbuddy.EventNews">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp">
+                <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:shrinkColumns="1"
+                    android:stretchColumns="2">
+
+                        <TextView
+
+                            android:layout_column="1"
+                            android:text="@string/festival"
+                            android:padding="2dip"
+                            android:layout_marginBottom="5dp"
+                            android:textColor="#0f016e"
+                            android:textSize="20dp"
+                            />
+
+
+                    <TableRow>
+                        <TextView
+                            android:layout_column="1"
+                            android:layout_height="24dp"
+                            android:padding="2dip"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/event"
+                            android:textSize="16dp"/>
+
+                        <TextView
+                            android:layout_column="2"
+                            android:layout_height="24dp"
+                            android:padding="2dip"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/month"
+                            android:textSize="16dp"/>
+                        <TextView
+                            android:layout_column="3"
+                            android:layout_height="24dp"
+                            android:padding="1dip"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/location"
+                            android:textSize="16dp"/>
+                    </TableRow>
+                    <View
+                        android:layout_height="2dip"
+                        android:background="#d41243"/>
+                    <TableRow>
+                        <TextView
+                            android:layout_column="1"
+                            android:layout_height="30dp"
+                            android:padding="2dip"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/eventfestival1"
+                            android:textSize="14dp"/>
+
+                        <TextView
+                            android:layout_column="2"
+                            android:layout_height="30dp"
+                            android:padding="2dip"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/month1"
+                            android:textSize="14dp"/>
+                        <TextView
+                            android:layout_column="3"
+                            android:layout_height="40dp"
+                            android:padding="3dip"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/loctnev1"
+                            android:textSize="14dp"/>
+                    </TableRow>
+                    <TableRow>
+                        <TextView
+                            android:layout_column="1"
+                            android:layout_height="29dp"
+                            android:padding="3dip"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/eventfestival2"
+                            android:textSize="14dp"/>
+
+                        <TextView
+                            android:layout_column="2"
+                            android:layout_height="29dp"
+                            android:padding="3dip"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/month2"
+                            android:textSize="14dp"/>
+                        <TextView
+                            android:layout_column="3"
+                            android:layout_height="29dp"
+                            android:padding="1dip"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/loctnev2"
+                            android:textSize="14dp"/>
+                    </TableRow>
+                    <TableRow>
+                        <TextView
+                            android:layout_column="1"
+                            android:layout_height="28dp"
+                            android:padding="3dip"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/eventfestival3"
+                            android:textSize="14dp"/>
+
+                        <TextView
+                            android:layout_column="2"
+                            android:layout_height="28dp"
+                            android:padding="3dip"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/month3"
+                            android:textSize="14dp"/>
+                        <TextView
+                            android:layout_column="3"
+                            android:layout_height="38dp"
+                            android:padding="3dip"
+                            android:layout_marginBottom="10dp"
+                            android:textColor="#0f0e0e"
+                            android:text="@string/loctnev3"
+                            android:textSize="14dp"/>
+                    </TableRow>
+                    <TableRow>
+                        <TextView
+                            android:layout_column="1"
+                            android:text="@string/otherevents"
+                            android:padding="2dip"
+                            android:textColor="#0f016e"
+                            android:textSize="18dp"/>
+                    </TableRow>
+
+                        <TextView
+                            android:layout_column="1"
+                            android:text="@string/foodbeverage"
+                            android:padding="2dip"
+                            android:layout_marginBottom="5dp"
+                            android:textColor="#4a4849"
+                            android:textSize="16dp"
+                            />
+
+                        <TextView
+                            android:text="@string/fooddate"
+                            android:layout_column="1"
+                            android:layout_marginBottom="10dp"/>
+
+
+
+                        <TextView
+                            android:layout_column="1"
+                            android:text="@string/icctns"
+                            android:padding="2dip"
+                            android:layout_marginBottom="5dp"
+                            android:textColor="#4a4849"
+                            android:textSize="16dp"
+                            />
+                        <TextView
+                            android:layout_column="1"
+                            android:text="@string/icdate"
+                            android:layout_marginBottom="10dp"/>
+
+                </TableLayout>
+            </LinearLayout></ScrollView>
+    </LinearLayout>
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
